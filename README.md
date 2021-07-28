@@ -8,3 +8,5 @@ A total of 4 projects were given.
 3. A binary classification problem to predict wether a shipped item reached its destination on time or not. The final model was a stacking ensemble model that achieved a weigthed F1 score of 0.68 on the test set, a cross validation training accuracy of 0.6835 and a testing accuracy of 0.6831. Finally a web app to take in a new set of values for the features and display wether the item reached on time or not was developed and deployed. 
 
 4. A binary classification problem to predict wether an individual was in risk of suffering a stroke or not. The dataset provided was highly imbalanced so the SMOTE dataset balancing technique was used alongwith a stacking ensemble model to achieve an F1 score of 0.92 with a testing accuracy of 0.9422
+
+The models developed for the above mentioned projects can be found in this repository.
